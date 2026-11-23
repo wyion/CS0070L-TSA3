@@ -1,4 +1,4 @@
-# BookBridge_TSA3 NetBeans source
+# BookBridge_TSA3
 
 This source tree separates the application into the TSA3-required packages:
 
